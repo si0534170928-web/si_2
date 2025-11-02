@@ -1,0 +1,14 @@
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\bin\Debug\net8.0\lesson-2-htmlSerializer.exe
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\bin\Debug\net8.0\lesson-2-htmlSerializer.deps.json
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\bin\Debug\net8.0\lesson-2-htmlSerializer.runtimeconfig.json
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\bin\Debug\net8.0\lesson-2-htmlSerializer.dll
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\bin\Debug\net8.0\lesson-2-htmlSerializer.pdb
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.AssemblyInfoInputs.cache
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.AssemblyInfo.cs
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.csproj.CoreCompileInputs.cache
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.dll
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\refint\lesson-2-htmlSerializer.dll
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.pdb
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\lesson-2-htmlSerializer.genruntimeconfig.cache
+C:\STUDIES\practi code\lesson-2-htmlSerializer\lesson-2-htmlSerializer\obj\Debug\net8.0\ref\lesson-2-htmlSerializer.dll
